@@ -1,0 +1,5 @@
+gradio
+prometheus_client==0.16.0
+ultralytics
+Pillow
+PyYAML

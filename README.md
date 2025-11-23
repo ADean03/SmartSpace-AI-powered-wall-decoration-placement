@@ -1,4 +1,5 @@
 Copied from documentation folder so readme appears on homepage too
+entire folder structure contained inside testingstructure folder cause it was easier to move on local machine that way
 
 # SmartSpace-AI-powered-wall-decoration-placement
 

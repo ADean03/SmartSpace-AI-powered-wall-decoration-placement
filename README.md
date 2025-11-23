@@ -1,1 +1,0 @@
-# SmartSpace-AI-powered-wall-decoration-placement
